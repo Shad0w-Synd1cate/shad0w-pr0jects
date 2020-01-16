@@ -7,16 +7,18 @@ list of things our awesome members have created. That way others can view them, 
 them or even contribute back to the projects themselves if they'd like!
 
 ## Pr0jects
-
+➖ ➖ ➖ ➖ ➖ 
 #### [@droberson](https://github.com/droberson)
-[ssh-honeypot](https://github.com/droberson/ssh-honeypot)
+➖ ➖ ➖ ➖ ➖ 
 
-[rtfm](https://github.com/droberson/rtfm)
+◻️ [ssh-honeypot](https://github.com/droberson/ssh-honeypot)
 
-[ELFcrypt](https://github.com/droberson/ELFcrypt)
+◻️ [rtfm](https://github.com/droberson/rtfm)
 
-[icmp-backdoor](https://github.com/droberson/icmp-backdoor)
+◻️ [ELFcrypt](https://github.com/droberson/ELFcrypt)
 
-[ELFappend](https://github.com/droberson/ELFappend)
+◻️ [icmp-backdoor](https://github.com/droberson/icmp-backdoor)
 
-[pastebin-scrape](https://github.com/droberson/pastebin-scrape)
+◻️ [ELFappend](https://github.com/droberson/ELFappend)
+
+◻️ [pastebin-scrape](https://github.com/droberson/pastebin-scrape)
